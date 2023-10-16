@@ -4,4 +4,4 @@ this repository contains questions from my assignment 2: the java codes of numbe
 .
 .
 .
-you can refer the basic questions on this topica and find the code here. Thankyou.
+refer the basic questions on this topica and find the code here. Thankyou.
